@@ -1,0 +1,12 @@
+.productimage img{
+    width: 100%;
+    
+}
+.titels{
+position: absolute;
+right: 0;
+bottom: 300px;
+left: 450px;
+width: 50%;
+    
+}
